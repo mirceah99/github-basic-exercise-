@@ -16,3 +16,5 @@ Name:
 mircea
 Drink:
 water
+Direction:
+up
