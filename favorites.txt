@@ -10,3 +10,5 @@ Color:
 blue
 Sport:
 volleyball
+Season:
+summer
